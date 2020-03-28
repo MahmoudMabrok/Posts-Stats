@@ -1,4 +1,6 @@
 # Posts-Stats
+[![HitCount](http://hits.dwyl.com/MahmoudMabrok/Posts-Stats.svg)](http://hits.dwyl.com/MahmoudMabrok/Posts-Stats)
+
 Chrome Extension to get total count of views for ypur feed posts on Linkedin 
 
 - Download form [here](https://github.com/MahmoudMabrok/Posts-Stats/releases/tag/v1.0)
