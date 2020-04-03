@@ -24,6 +24,11 @@ Chrome Extension to get total count of views for your  posts on Linkedin
 - [ ] work with feed page
 - [ ] get most users
 
+# screenshots 
+![Screen Shot 2020-04-03 at 9 51 39 PM](https://user-images.githubusercontent.com/13488900/78399559-65962f00-75f5-11ea-9593-bef16b0ce91b.png)
+
+
+
 
 
 
