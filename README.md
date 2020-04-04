@@ -20,8 +20,8 @@ Chrome Extension to get total count of views for your  posts on Linkedin
 
 # feature 
 - [x] counts posts view at your actvity 
-- [ ] count likes,comments
-- [ ] work with feed page
+- [x] count likes,comments
+- [ ] countcomments
 - [ ] get most users
 
 # screenshots 
